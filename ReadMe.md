@@ -1,3 +1,5 @@
+A game created for my game programming course in Fall 2018. The goal of this assignment was to create a fully functional game in under 6 weeks.
+
 # How to Play
 This was created in Unreal Engine 4 Version 4.20 for anyone interested in checking out how it was created.
 
